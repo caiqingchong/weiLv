@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>question</key>
+	<array>
+		<string>1、网上价格是否可以预订?</string>
+		<string>2、儿童只占车位，如何购买景区门票和用餐?</string>
+		<string>3、是否可以用支付宝或银联在线支付？</string>
+		<string>4、旅游发票怎么开?</string>
+		<string>5、什么时候才能知道订到位置？</string>
+		<string>6、出团通知什么时候发?</string>
+		<string>7、订单支付成功后是否可以退团、更改线路、延期出游?</string>
+		<string>8、什么情况可以修改订单？</string>
+		<string>9、什么情况可以取消订单？</string>
+		<string>10、付款之后修改或取消订单为什么需要支付损失？</string>
+	</array>
+	<key>answer</key>
+	<array>
+		<string>您好，若网上团期显示有位置信息，表示此价格可以预定。</string>
+		<string>您好，导游会协助您到景区现场根据儿童的身高来购买门票，用餐会根据餐厅的要求收取相应的费用。</string>
+		<string>您好，微旅APP目前支持支付宝和微信支付，或将银行卡与支付宝绑定即可进行支付。</string>
+		<string>您好，旅游发票都是由产品提供商开具，如有需要，可以联系产品提供商索取。</string>
+		<string>您好，订单支付成功后产品提供商会及时订位，订好后微旅会短信通知您。</string>
+		<string>您好，出团通知是在出发前一天18：00-21:00点，导游电话或短信通知您。</string>
+		<string>您好，订单支付成功后，如发生变更需要旅游产品提供商核实是否产生损失，一般损失较大，具体按照产品提供商的旅游合同收取损失的费用，建议您支付前确认清楚。</string>
+		<string>您好，出游前可以修改。修改订单可能会产生的一定的违约金，具体订单签约的合同为准。</string>
+		<string>您好，出游前可以取消订单。付款后取消订单，需要支付一定损失和违约金，具体以订单签约的合同为准。</string>
+		<string>您好，订单支付成功后，产品提供商即时为您订位，已订好位如您取消会产生相应的车位、门票等损失，所以需要和产品提供商申请。</string>
+	</array>
+</dict>
+</plist>

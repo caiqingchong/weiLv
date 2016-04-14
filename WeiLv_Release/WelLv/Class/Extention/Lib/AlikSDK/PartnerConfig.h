@@ -1,0 +1,44 @@
+//
+//  PartnerConfig.h
+//  WelLv
+//
+//  Created by lyx on 15/6/9.
+//  Copyright (c) 2015年 WeiLvTechnology. All rights reserved.
+//
+
+#ifndef WelLv_PartnerConfig_h
+#define WelLv_PartnerConfig_h
+
+/*
+/// 老的支付宝账号
+//合作身份者id，以2088开头的16位纯数字
+#define AlikPartnerID @"2088811034387504"
+//收款支付宝账号
+#define AlikSellerID  @"3092849226@qq.com"
+
+//安全校验码（MD5）密钥，以数字和字母组成的32位字符
+#define MD5_KEY @""
+
+//商户私钥，自助生成
+#define AlikPartnerPrivKey @"MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBALr1K+MxmRAjFC9JEP+7pu1azlu0R18gNJzFyCfLB0xYdbwiW2AV4jA4mlNkuC6IRvAKQ4xIQvGq2Meq4El2VbSydWJ7fjlIKcmBAeGHnyMpYG2FvZDgf6ZxyDjEoAtajRcZt5ldU05zkZ7LnV00J0SRmiRzdfXtQVI6oOs/ipEXAgMBAAECgYAq4zcwJR6RvxpQRpipsah3Zo9UJiUBQ2gOVqi1yDNiZiCMCe2gOyTqHvH4E3DU69oqEpCwS5tfyOt10lMlRwodxrPiezMAnu4rGzLRmaBy1GIyon/34CUtZYF/4Uz8uGDmp6sGDSAOs0VyXOpeQV1GnkSOKqJFlalme3Mbs72uoQJBAPJjx3WraCtK6JVgEgJb4IXOzux+ofZde4WYe3GCwzh79ugutaUvYHc4XTkLL2C1vanVS6e4uC/GIQWf/nxV548CQQDFdJYrFvdb5STw+uwEmQo6UV9PeE+7+C8rATq0q6LV2w+h7OrM6amcyN1FYylegK6oGRgncee/4ecwRttG+rn5AkAlIC9O0KA18VVKe9qGTfhHxnNfOc4o5AylW8OckUDBiAs7aNwdnvIRkKqGsDXjhDK2rprV568eciRgri7WcHn1AkEAxG2S5hLWyIhQE5rLKFfGoPVKR5h8WZYv9iwm5ozIVM6z4nX5rxfUL7ByzxAym1yQY5FzQepCjdSBVLloclgCoQJBAJ2zMmUn4kz821PqC8ih1T4vWsMiZ4uL0zEifs3gnX/RAAFnZAPr6Tf+zQYKSPIOdaMmGDZD4Bn2VgVf9nqrCrg="
+ */
+
+
+
+
+//合作身份者id，以2088开头的16位纯数字
+#define AlikPartnerID @"2088121359746903"
+//收款支付宝账号
+#define AlikSellerID  @"3023099549@qq.com"
+
+//安全校验码（MD5）密钥，以数字和字母组成的32位字符
+#define MD5_KEY @""
+
+//商户私钥，自助生成
+#define AlikPartnerPrivKey @"MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBALf5EpUhTNmwkmE1V2dzzNsAxnZXSV6BTt2ODtgO4qCr+wzMlexoy0auRtv9Q5USmhK2bAVLHYLMwk88rK3wGK11JO04bSJD7OhYyu37RunQgwXIvdTl4VeFHxVskTb/Pa7IWtfwEKQ7MmMpSeErSD3WyRCvbso+S2A9bxUVfyMrAgMBAAECgYEAtQRaCGpvl3JpVUSK77u9QW+N1zsjcd2Bn/X7HRPoYXdW2c0jZy3ldXJdPnAAY1meR/M+biburpiSSCzHK44meDnfZoV/KKlPNDNMFfGLZTmYIXzS6aWAWE621m68cmeIXdeOrOl1P+oBhmXfkJsMhjN/h7Zmwynq7orKcblzRsECQQDn0ZcUeeCgWCi3n5TxMs92WsHgOimQZC6mJH7hrb4gkPg5TIQx6Z0HJFf7tQfRCi7Ah6etVZ3BU3pK5Th/swTjAkEAyynTKM2EZXGJa+gvzwQNoOGKMF6MUZ9HRNYDF2HvadXOC6XNv2Hr2F/a+BMBS8V2QjRH1+E07v5gGs5Zg0cDGQJADOO+fsj4EHJWcT9STMcCehY5yXnybbDkVyCYXXwHok/tPWJfx1ayAH+o1LoQITNrvhDM5fpotyMpHZj5N0CA+QJAVgcM4h88a9RK04WLEQbvWmuGn3q5wipG/G/++RzASzl8uVPpLpwhSQs15ovtpY8kx13p+hDj4DuYqGEuaDdeqQJBAJvdGMu6lPiodpzYg/M2G8G/Dei75AJi6sbXiDlzpNvWYdnlvzl2CG/nqCLO8rcTm09vmYEBIXP4qEUNcLQh6OU="
+
+
+
+
+
+#endif

@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2317f052-66c9-4d7d-abf9-ef054e57eadb++2358",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++3832" : {
+
+    },
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++337" : {
+
+    },
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++2358" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++3832" : 0,
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++337" : 0,
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++2358" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "230E40B9-5140-4036-83A5-2B1516DF473D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++3832" : "WelLv-main\/",
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++337" : "WelLv\/",
+    "2317f052-66c9-4d7d-abf9-ef054e57eadb++2358" : "WeiLv_Release\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WelLv",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WelLv.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/james_super\/WeiLv_Release.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2317f052-66c9-4d7d-abf9-ef054e57eadb++2358"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/112.126.68.22",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2317f052-66c9-4d7d-abf9-ef054e57eadb++337"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/112.126.68.22",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2317f052-66c9-4d7d-abf9-ef054e57eadb++3832"
+    }
+  ]
+}
